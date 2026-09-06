@@ -14,7 +14,7 @@
 
 <p>
   <a href="https://www.linkedin.com/in/vishalnitt/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-vishalnitt-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"></a>
-  <a href="https://dl.acm.org/doi/10.1145/3557991.3567784"><img alt="ACM DL" src="https://img.shields.io/badge/ACM%20DL-SIGSPATIAL-0F766E?style=for-the-badge&logo=acm&logoColor=white"></a>
+  <a href="https://dl.acm.org/action/showFmPdf?doi=10.1145%2F3557991"><img alt="ACM DL" src="https://img.shields.io/badge/ACM%20DL-SIGSPATIAL-0F766E?style=for-the-badge&logo=acm&logoColor=white"></a>
   <a href="https://hackernoon.com/u/vishalkumar"><img alt="HackerNoon" src="https://img.shields.io/badge/HackerNoon-Articles-00FE00?style=for-the-badge&logo=hackernoon&logoColor=black"></a>
   <a href="https://www.youtube.com/watch?v=N96IdetD6CE"><img alt="Talk" src="https://img.shields.io/badge/Talk-SotM%20US%202026-FF0000?style=for-the-badge&logo=youtube&logoColor=white"></a>
   <img alt="Email" src="https://img.shields.io/badge/Email-vishku%20%5Bat%5D%20amazon%20%5Bdot%5D%20com-0F172A?style=for-the-badge&logo=gmail&logoColor=white">
@@ -45,7 +45,7 @@ I am a Senior Software Engineer and Tech Lead at Amazon Last Mile Maps in Seattl
 
 - **Deep Classification of Frequently-Changing Activities from GPS Trajectories.**
   ACM SIGSPATIAL Workshop on Computational Transportation Science (IWCTS 2022).
-  [DOI 10.1145/3557991.3567784](https://doi.org/10.1145/3557991.3567784)
+  [DOI 10.1145/3557991.3567784](https://doi.org/10.1145/3557991.3567784) · [IWCTS 2022 proceedings front matter](https://dl.acm.org/action/showFmPdf?doi=10.1145%2F3557991)
   The model replaced heuristic driver-activity inference across Amazon's worldwide delivery operations. Companion open dataset: [GOAL: GPS Ordered Activity Labels](https://github.com/amazon-science/goal-gps-ordered-activity-labels).
 
 ## Talks and workshops
