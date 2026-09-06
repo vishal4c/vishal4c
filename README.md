@@ -17,7 +17,7 @@
   <a href="https://dl.acm.org/doi/10.1145/3557991.3567784"><img alt="ACM DL" src="https://img.shields.io/badge/ACM%20DL-SIGSPATIAL-0F766E?style=for-the-badge&logo=acm&logoColor=white"></a>
   <a href="https://hackernoon.com/u/vishalkumar"><img alt="HackerNoon" src="https://img.shields.io/badge/HackerNoon-Articles-00FE00?style=for-the-badge&logo=hackernoon&logoColor=black"></a>
   <a href="https://www.youtube.com/watch?v=N96IdetD6CE"><img alt="Talk" src="https://img.shields.io/badge/Talk-SotM%20US%202026-FF0000?style=for-the-badge&logo=youtube&logoColor=white"></a>
-  <a href="mailto:vishku@amazon.com"><img alt="Email" src="https://img.shields.io/badge/Email-vishku%40amazon.com-0F172A?style=for-the-badge&logo=gmail&logoColor=white"></a>
+  <img alt="Email" src="https://img.shields.io/badge/Email-vishku%20%5Bat%5D%20amazon%20%5Bdot%5D%20com-0F172A?style=for-the-badge&logo=gmail&logoColor=white">
 </p>
 
 </div>
@@ -61,26 +61,26 @@ I am a Senior Software Engineer and Tech Lead at Amazon Last Mile Maps in Seattl
 
 - **FlashTileGenEngine.** Database-free vector tile pipeline (Planetiler, GeoParquet, Apache Sedona on Spark) that replaced a PostGIS stack. Worldwide tile refresh dropped from 31 hours to 4, 22 logistics-specific layers, tiles served across 19 countries.
 - **Routable road network generation.** Big-data pipeline (2019) that builds Amazon's last-mile road graph; later Spark migration took world-wide map ingestion from a 48-hour monolith to an 8-hour distributed job.
-- **GeoAI agent framework.** Multi-agent system on AWS Bedrock AgentCore with 22 production tools and 10 sub-agents for geospatial analysis, reaching 1,000+ internal partners.
-- **Driver activity classifier.** Bi-directional LSTM with attention that infers activity from GPS traces alone, in production worldwide since 2024. Its outputs feed Amazon's driver-safety analytics ([About Amazon, Sept 2025](https://www.aboutamazon.com/news/transportation/amazon-delivery-service-partner-investment-safety-ai-tools)).
+- **GeoAI agent framework.** Multi-agent system on AWS Bedrock AgentCore for geospatial analysis, used by 1,000+ internal partners. Featured in Amazon's announcement of AI-powered tools for delivery partners ([About Amazon, Sept 2025](https://www.aboutamazon.com/news/transportation/amazon-delivery-service-partner-investment-safety-ai-tools)).
+- **Driver activity classifier.** Bi-directional LSTM with attention that infers activity from GPS traces alone, in production worldwide since 2024.
 
 ## Awards
 
 | Year | Award | Work recognized |
 | --- | --- | --- |
-| 2025 | Innovation Award, Amazon Last Mile Geospatial All Hands | GeoAI multi-agent framework on AWS Bedrock AgentCore (22 production tools, 10 sub-agents) |
+| 2025 | Innovation Award, Amazon Last Mile Geospatial All Hands | GeoAI multi-agent framework on AWS Bedrock AgentCore, used by 1,000+ internal partners |
 | 2025 | People's Choice Award, Amazon GenAI Hackathon | Agentic prototype for geospatial analysis |
 | 2024 | Special Award for Operational Excellence, Amazon Geospatial Hub Winter Hackathon | Oncall Whisperer, an LLM assistant for on-call incident triage |
 | 2023 | 1st Place, Amazon GS Hub Hackathon | Understanding driver building entry and exit events from raw GNSS signals |
 | 2019 | Best Overall Award, Amazon Last Mile HackDay | Grid-based map tile ingestion |
 
-## Writing
+## Published Articles
 
 - [Agentic AI's Next Frontier Is the Physical World. Trust Will Decide Who Wins.](https://aijourn.com/agentic-ais-next-frontier-is-the-physical-world-trust-will-decide-who-wins/) The AI Journal, Jul 2026.
 - [The Agent Drafts, a Human Approves: Inside State of the Map US 2026](https://hackernoon.com/the-agent-drafts-a-human-approves-inside-state-of-the-map-us-2026). HackerNoon, 2026.
 - [How Open Source Runs the Mapping World](https://hackernoon.com/how-open-source-runs-the-mapping-world). HackerNoon, Jun 2026.
 
-## Community and service
+## Geospatial Community and Open Source Work
 
 - Overture Maps Foundation: participant in the Schema and Buildings task forces; led Amazon's delivery-maps migration onto Overture data, schema, and GERS identifiers.
 - Reviewer interests: LLMs and agentic AI for geospatial tasks, scalable spatial pipelines, map conflation, intelligent transportation.
@@ -97,4 +97,4 @@ I am a Senior Software Engineer and Tech Lead at Amazon Last Mile Maps in Seattl
 
 ## Contact
 
-Research collaboration, program committee work, or comparing notes on maps and large-scale spatial data: reach me at vishku@amazon.com or on [LinkedIn](https://www.linkedin.com/in/vishalnitt/).
+Research collaboration, program committee work, or comparing notes on maps and large-scale spatial data: reach me at vishku [at] amazon [dot] com or on [LinkedIn](https://www.linkedin.com/in/vishalnitt/).
