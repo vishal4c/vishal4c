@@ -57,7 +57,7 @@ I am a Senior Software Engineer and Tech Lead at Amazon Last Mile Maps in Seattl
 | Jun 12, 2026 | State of the Map US 2026, Madison | [How Amazon Generates Map Tiles for Last-Mile Delivery Using OSM-Derived Datasets and Planetiler](https://openstreetmap.us/events/state-of-the-map-us/2026/how-amazon-generates-map-tiles/) ([video](https://www.youtube.com/watch?v=N96IdetD6CE)) |
 | Oct 2022 | ACM SIGSPATIAL IWCTS 2022, Seattle | Deep Classification of Frequently-Changing Activities from GPS Trajectories |
 
-## Systems in Production
+## Showcased System Architecture
 
 - **FlashTileGenEngine.** Database-free vector tile pipeline (Planetiler, GeoParquet, Apache Sedona on Spark) that replaced a PostGIS stack. Worldwide tile refresh dropped from 31 hours to 4, 22 logistics-specific layers, tiles served across 19 countries.
 - **Routable road network generation.** Big-data pipeline (2019) that builds Amazon's last-mile road graph; later Spark migration took world-wide map ingestion from a 48-hour monolith to an 8-hour distributed job.
