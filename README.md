@@ -74,7 +74,7 @@ I am a Senior Software Engineer and Tech Lead at Amazon Last Mile Maps in Bellev
 | 2025 | People's Choice Award, Amazon GenAI Hackathon | Agentic prototype for geospatial analysis |
 | 2024 | Special Award for Operational Excellence, Amazon Geospatial Hub Winter Hackathon | Oncall Whisperer, an LLM assistant for on-call incident triage |
 | 2023 | 1st Place, Amazon GS Hub Hackathon | Understanding driver building entry and exit events from raw GNSS signals |
-| 2019 | Best Overall Award, Amazon Last Mile HackDay | Grid-based map tile ingestion |
+| 2019 | Best Overall Award, Amazon Last Mile HackDay | Cell-based road network generation for faster maps artifact deployment and maps defect isolation |
 
 ## Published Articles
 
