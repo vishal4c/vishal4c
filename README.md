@@ -23,7 +23,7 @@
 
 </div>
 
-I am a Senior Software Engineer and Tech Lead at Amazon Last Mile Maps in Bellevue, WA. I own the architecture of Amazon's map-making stack: the big-data pipelines that produce the routable road network behind millions of daily delivery routes, and the planet-scale tile generation built on the OpenStreetMap toolchain. My current research applies LLM and vision-language agents to map editing, conflation, and geospatial data labeling, with deterministic verifiers that check every agent edit before it reaches the map.
+I am a Senior Software Engineer and Tech Lead at Amazon Last Mile Maps in Bellevue, WA. I lead the architecture behind Amazon's maps: the pipelines that produce the visual and routing map artifacts behind millions of daily delivery routes, and the ML systems that learn from driver sensor data. I drive Amazon-wide adoption of the OpenStreetMap ecosystem and open-source geospatial frameworks and tooling. My current research applies LLM and vision-language agents to map editing, conflation, and geospatial data labeling, with deterministic verifiers that check every agent edit before it reaches the map.
 
 ## Research interests
 
