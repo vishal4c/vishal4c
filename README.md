@@ -33,7 +33,7 @@ I am a Senior Software Engineer and Tech Lead at Amazon Last Mile Maps in Bellev
 | Big spatial data systems | Planet-scale ETL on Spark and Apache Sedona, database-free vector tile generation (Planetiler, GeoParquet, PMTiles), incremental map updates. |
 | Map conflation and migration | Cross-provider road correspondence, geometric edit replay, transferring private edits between OpenStreetMap and Overture base maps. |
 | Trajectory and sensor ML | Driver-activity classification from raw GPS traces, ground-truth aggregation from fleet telemetry, GNSS-based building entry detection. |
-| Intelligent transportation | Routing networks for last-mile and pedestrian delivery, entrance and access-point extraction, sidewalk and walk-path detection. |
+| Intelligent transportation | Routing networks for last-mile and pedestrian delivery, navigation for autonomous delivery robots, entrance and access-point extraction, sidewalk and walk-path detection. |
 
 ## Publications
 
