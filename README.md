@@ -61,12 +61,22 @@ I am a Senior Software Engineer and Tech Lead at Amazon Last Mile Maps in Seattl
 | Jun 12, 2026 | State of the Map US 2026, Madison | [How Amazon Generates Map Tiles for Last-Mile Delivery Using OSM-Derived Datasets and Planetiler](https://openstreetmap.us/events/state-of-the-map-us/2026/how-amazon-generates-map-tiles/) ([video](https://www.youtube.com/watch?v=N96IdetD6CE)) |
 | Oct 2022 | ACM SIGSPATIAL IWCTS 2022, Seattle | Deep Classification of Frequently-Changing Activities from GPS Trajectories |
 
-## Selected systems
+## Systems in Production
 
 - **FlashTileGenEngine.** Database-free vector tile pipeline (Planetiler, GeoParquet, Apache Sedona on Spark) that replaced a PostGIS stack. Worldwide tile refresh dropped from 31 hours to 4, 22 logistics-specific layers, tiles served across 19 countries.
 - **Routable road network generation.** Big-data pipeline (2019) that builds Amazon's last-mile road graph; later Spark migration took world-wide map ingestion from a 48-hour monolith to an 8-hour distributed job.
-- **GeoAI agent framework.** Multi-agent system on AWS Bedrock AgentCore with 22 production tools and 10 sub-agents for geospatial analysis; Geospatial All Hands Innovation Award, 2025.
+- **GeoAI agent framework.** Multi-agent system on AWS Bedrock AgentCore with 22 production tools and 10 sub-agents for geospatial analysis, reaching 1,000+ internal partners.
 - **Driver activity classifier.** Bi-directional LSTM with attention that infers activity from GPS traces alone, in production worldwide since 2024. Its outputs feed Amazon's driver-safety analytics ([About Amazon, Sept 2025](https://www.aboutamazon.com/news/transportation/amazon-delivery-service-partner-investment-safety-ai-tools)).
+
+## Awards
+
+| Year | Award | Work recognized |
+| --- | --- | --- |
+| 2025 | Innovation Award, Amazon Last Mile Geospatial All Hands | GeoAI multi-agent framework on AWS Bedrock AgentCore (22 production tools, 10 sub-agents) |
+| 2025 | People's Choice Award, Amazon GenAI Hackathon | Agentic prototype for geospatial analysis, with Ravi Garg, Dennis Billagiri, and Shaishav Maisuria |
+| 2024 | Special Award for Operational Excellence, Amazon Geospatial Hub Winter Hackathon | Oncall Whisperer, an LLM assistant for on-call incident triage |
+| 2023 | 1st Place, Amazon GS Hub Hackathon | Understanding driver building entry and exit events from raw GNSS signals |
+| 2019 | Best Overall Award, Amazon Last Mile HackDay | Grid-based map tile ingestion |
 
 ## Writing
 
@@ -79,7 +89,6 @@ I am a Senior Software Engineer and Tech Lead at Amazon Last Mile Maps in Seattl
 - Overture Maps Foundation: participant in the Schema and Buildings task forces; led Amazon's delivery-maps migration onto Overture data, schema, and GERS identifiers.
 - Reviewer interests: LLMs and agentic AI for geospatial tasks, scalable spatial pipelines, map conflation, intelligent transportation.
 - Mentor to engineers and researchers in big data and applied AI, inside Amazon and on ADPList; 300+ technical interviews conducted.
-- Hackathon awards: Amazon GenAI Hackathon People's Choice (2025), Geospatial Hub Winter Hackathon Operational Excellence Award (2024), GS Hub Hackathon 1st Place (2023), Last Mile HackDay Best Overall (2019).
 
 ## Toolbox
 
