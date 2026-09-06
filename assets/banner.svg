@@ -29,7 +29,7 @@
     <rect x="1010" y="150" width="60" height="60" rx="4"/>
     <rect x="1040" y="180" width="60" height="60" rx="4"/>
   </g>
-  <text x="48" y="92" font-family="Inter, Segoe UI, Helvetica, Arial, sans-serif" font-size="46" font-weight="700" fill="#ffffff">Vishal Kumar</text>
-  <text x="48" y="132" font-family="Inter, Segoe UI, Helvetica, Arial, sans-serif" font-size="21" fill="#bfe9e3">Geospatial AI  ·  Big Spatial Data  ·  Maps and Routing Systems</text>
-  <text x="48" y="172" font-family="Inter, Segoe UI, Helvetica, Arial, sans-serif" font-size="16" fill="#8fc3bd">Senior Software Engineer and Tech Lead, Amazon Last Mile Maps, Seattle</text>
+  <text x="48" y="112" font-family="Inter, Segoe UI, Helvetica, Arial, sans-serif" font-size="46" font-weight="700" fill="#ffffff">Vishal Kumar</text>
+  <text x="48" y="154" font-family="Inter, Segoe UI, Helvetica, Arial, sans-serif" font-size="21" fill="#bfe9e3">Geospatial AI  ·  Big Spatial Data  ·  Maps and Routing Systems</text>
+  <text x="48" y="192" font-family="Inter, Segoe UI, Helvetica, Arial, sans-serif" font-size="16" fill="#8fc3bd">Senior Software Engineer and Tech Lead, Amazon Last Mile Maps, Seattle</text>
 </svg>
