@@ -13,6 +13,7 @@
 <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=22&duration=2800&pause=900&color=0F766E&center=true&vCenter=true&width=900&lines=Agentic+AI+and+vision-language+models+for+map+editing;Planet-scale+spatial+pipelines%3A+Spark%2C+Sedona%2C+Planetiler%2C+GeoParquet;Map+conflation%2C+routing+networks%2C+GPS+trajectory+ML;OpenStreetMap%2C+Overture+Maps%2C+open+geospatial+tooling" alt="Research themes" width="92%">
 
 <p>
+  <a href="#resume"><img alt="Resume" src="https://img.shields.io/badge/Resume-View%20inline-0E7490?style=for-the-badge&logo=readme&logoColor=white"></a>
   <a href="https://www.linkedin.com/in/vishalnitt/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-vishalnitt-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"></a>
   <a href="https://dl.acm.org/action/showFmPdf?doi=10.1145%2F3557991"><img alt="ACM DL" src="https://img.shields.io/badge/ACM%20DL-SIGSPATIAL-0F766E?style=for-the-badge&logo=acm&logoColor=white"></a>
   <a href="https://hackernoon.com/u/vishalkumar"><img alt="HackerNoon" src="https://img.shields.io/badge/HackerNoon-Articles-00FE00?style=for-the-badge&logo=hackernoon&logoColor=black"></a>
@@ -94,6 +95,18 @@ I am a Senior Software Engineer and Tech Lead at Amazon Last Mile Maps in Seattl
 <img src="./assets/speaking-sotm-us-2026.jpg" alt="Vishal Kumar speaking at State of the Map US 2026" width="88%">
 <br><sub>Speaking at State of the Map US 2026, Madison, WI.</sub>
 </div>
+
+## Resume
+
+<details>
+<summary><b>Click to expand the two-page CV</b> (or <a href="./assets/Vishal_Kumar_CV.pdf">open the PDF</a>)</summary>
+<br>
+<p align="center">
+<img src="./assets/cv-page-1.png" alt="Vishal Kumar CV, page 1" width="92%">
+<br><br>
+<img src="./assets/cv-page-2.png" alt="Vishal Kumar CV, page 2" width="92%">
+</p>
+</details>
 
 ## Contact
 
