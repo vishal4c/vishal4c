@@ -29,7 +29,7 @@ I am a Senior Software Engineer and Tech Lead at Amazon Last Mile Maps in Bellev
 
 | Area | What I work on |
 | --- | --- |
-| Agentic AI for geospatial tasks | Agent harnesses for map editing, tool-grounded reasoning over satellite and street-view imagery, verifier-in-the-loop labeling, multi-agent critic loops, and glass-box UI for debugging agent reasoning and tool-use patterns. |
+| Agentic AI for geospatial tasks | Agent harnesses for map editing, tool-grounded reasoning over satellite and street-view imagery, verifier-in-the-loop labeling, multi-agent critic loops, and a glass box UI for debugging agent reasoning and tool-use patterns. |
 | Big spatial data systems | Planet-scale ETL on Spark and Apache Sedona, database-free vector tile generation (Planetiler, GeoParquet, PMTiles), incremental map updates. |
 | Map conflation and migration | Cross-provider road correspondence, geometric edit replay, transferring private edits between OpenStreetMap and Overture base maps. |
 | Trajectory and sensor ML | Driver-activity classification from raw GPS traces, ground-truth aggregation from fleet telemetry, GNSS-based building entry detection. |
