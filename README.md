@@ -73,7 +73,7 @@ I am a Senior Software Engineer and Tech Lead at Amazon Last Mile Maps in Bellev
 | 2025 | Innovation Award, Amazon Last Mile Geospatial All Hands | GeoAI multi-agent framework on AWS Bedrock AgentCore, used by 1,000+ internal partners |
 | 2025 | People's Choice Award, Amazon GenAI Hackathon | GraphFix AI Agent, which validates map data by comparing routes across map providers and flagging road network defects |
 | 2024 | Special Award for Operational Excellence, Amazon Geospatial Hub Winter Hackathon | Oncall Whisperer, an LLM assistant for on-call incident triage |
-| 2023 | 1st Place, Amazon GS Hub Hackathon | Understanding driver building entry and exit events from raw GNSS signals |
+| 2023 | Winner (First Place), Amazon Geospatial Hub Hackathon 2023 | Understanding driver building entry and exit events from raw GNSS signals |
 | 2022 | Best Paper Award, ACM SIGSPATIAL IWCTS 2022 | Deep Classification of Frequently-Changing Activities from GPS Trajectories |
 | 2021 | OE and Quality Tech Award, Amazon Maps, Locations, and TTO Hack Day | Route Timeline Replay Tool |
 | 2019 | Best Overall Award, Amazon Last Mile HackDay | Cell-based road network generation for faster maps artifact deployment and maps defect isolation |
