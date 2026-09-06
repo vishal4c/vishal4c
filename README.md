@@ -8,7 +8,7 @@
 
 # Vishal Kumar
 
-### Geospatial AI, big spatial data, and the systems that turn open data into maps and routes.
+### Research interests: Big Spatial Data pipelines, Map Rendering and Routing at planet scale, and Agentic Mapping.
 
 <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=22&duration=2800&pause=900&color=0F766E&center=true&vCenter=true&width=900&lines=Agentic+AI+and+vision-language+models+for+map+editing;Planet-scale+spatial+pipelines%3A+Spark%2C+Sedona%2C+Planetiler%2C+GeoParquet;Map+conflation%2C+routing+networks%2C+GPS+trajectory+ML;OpenStreetMap%2C+Overture+Maps%2C+open+geospatial+tooling" alt="Research themes" width="92%">
 
