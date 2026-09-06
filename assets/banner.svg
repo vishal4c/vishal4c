@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="260" viewBox="0 0 1200 260" role="img" aria-label="Vishal Kumar: geospatial AI, big spatial data, maps and routing research">
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="260" viewBox="0 0 1200 260" role="img" aria-label="Vishal Kumar: geospatial AI, big spatial data, maps and routing systems">
   <defs>
     <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
       <stop offset="0" stop-color="#0b1f2a"/>
@@ -32,5 +32,4 @@
   <text x="48" y="92" font-family="Inter, Segoe UI, Helvetica, Arial, sans-serif" font-size="46" font-weight="700" fill="#ffffff">Vishal Kumar</text>
   <text x="48" y="132" font-family="Inter, Segoe UI, Helvetica, Arial, sans-serif" font-size="21" fill="#bfe9e3">Geospatial AI  ·  Big Spatial Data  ·  Maps and Routing Systems</text>
   <text x="48" y="172" font-family="Inter, Segoe UI, Helvetica, Arial, sans-serif" font-size="16" fill="#8fc3bd">Senior Software Engineer and Tech Lead, Amazon Last Mile Maps, Seattle</text>
-  <text x="48" y="214" font-family="Inter, Segoe UI, Helvetica, Arial, sans-serif" font-size="15" fill="#f4b942">ACM SIGSPATIAL 2026  ·  State of the Map US 2026  ·  FOSS4G NA 2026</text>
 </svg>
