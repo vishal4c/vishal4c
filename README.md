@@ -54,7 +54,6 @@ I am a Senior Software Engineer and Tech Lead at Amazon Last Mile Maps in Bellev
 | When | Venue | Title |
 | --- | --- | --- |
 | Nov 2, 2026 | FOSS4G North America 2026, Sacramento | Workshop: [Routes to Safety: A Wildfire Evacuation Map from Open Data](https://talks.osgeo.org/foss4g-na-2026/talk/NYKALL/). [Workshop GitHub repo](https://github.com/vishal4c/routes-to-safety-workshop) |
-| Nov 5, 2026 | ACM SIGSPATIAL 2026, Riverside, CA | Presenting the Scalable Conflation paper and the MapScout demo |
 | Nov 4, 2026 | FOSS4G North America 2026, Sacramento | Talk: [Accelerated Multi-Source Vector-Tile Generation with Open-source Frameworks](https://talks.osgeo.org/foss4g-na-2026/talk/USHLU9/) |
 | Jun 12, 2026 | State of the Map US 2026, Madison | [How Amazon Generates Map Tiles for Last-Mile Delivery Using OSM-Derived Datasets and Planetiler](https://openstreetmap.us/events/state-of-the-map-us/2026/how-amazon-generates-map-tiles/) ([video](https://www.youtube.com/watch?v=N96IdetD6CE)) |
 | Oct 2022 | ACM SIGSPATIAL IWCTS 2022, Seattle | [Deep Classification of Frequently-Changing Activities from GPS Trajectories](https://dl.acm.org/action/showFmPdf?doi=10.1145%2F3557991) |
