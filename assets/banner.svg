@@ -1,0 +1,36 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="260" viewBox="0 0 1200 260" role="img" aria-label="Vishal Kumar: geospatial AI, big spatial data, maps and routing research">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#0b1f2a"/>
+      <stop offset="1" stop-color="#0f4c5c"/>
+    </linearGradient>
+    <pattern id="grid" width="40" height="40" patternUnits="userSpaceOnUse">
+      <path d="M40 0H0V40" fill="none" stroke="#7fd1c8" stroke-opacity="0.12" stroke-width="1"/>
+    </pattern>
+    <filter id="glow"><feGaussianBlur stdDeviation="2.5" result="b"/><feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge></filter>
+  </defs>
+  <rect width="1200" height="260" rx="18" fill="url(#bg)"/>
+  <rect width="1200" height="260" rx="18" fill="url(#grid)"/>
+  <!-- stylised road network -->
+  <g fill="none" stroke="#7fd1c8" stroke-width="2.5" stroke-linecap="round" opacity="0.9">
+    <path d="M700 230 C 780 160, 860 200, 930 120 S 1080 60, 1160 40"/>
+    <path d="M760 40 C 800 110, 880 130, 930 120"/>
+    <path d="M930 120 C 960 170, 1010 200, 1100 230"/>
+    <path d="M820 230 C 860 190, 890 180, 930 120"/>
+    <path d="M660 90 C 720 110, 760 130, 800 165"/>
+  </g>
+  <g fill="#f4b942" filter="url(#glow)">
+    <circle cx="930" cy="120" r="6"/><circle cx="760" cy="40" r="4.5"/><circle cx="1160" cy="40" r="4.5"/>
+    <circle cx="1100" cy="230" r="4.5"/><circle cx="700" cy="230" r="4.5"/><circle cx="660" cy="90" r="4.5"/>
+    <circle cx="800" cy="165" r="4.5"/><circle cx="820" cy="230" r="4.5"/>
+  </g>
+  <!-- tile outline motif -->
+  <g fill="none" stroke="#f4b942" stroke-opacity="0.55" stroke-width="1.5">
+    <rect x="1010" y="150" width="60" height="60" rx="4"/>
+    <rect x="1040" y="180" width="60" height="60" rx="4"/>
+  </g>
+  <text x="48" y="92" font-family="Inter, Segoe UI, Helvetica, Arial, sans-serif" font-size="46" font-weight="700" fill="#ffffff">Vishal Kumar</text>
+  <text x="48" y="132" font-family="Inter, Segoe UI, Helvetica, Arial, sans-serif" font-size="21" fill="#bfe9e3">Geospatial AI  ·  Big Spatial Data  ·  Maps and Routing Systems</text>
+  <text x="48" y="172" font-family="Inter, Segoe UI, Helvetica, Arial, sans-serif" font-size="16" fill="#8fc3bd">Senior Software Engineer and Tech Lead, Amazon Last Mile Maps, Seattle</text>
+  <text x="48" y="214" font-family="Inter, Segoe UI, Helvetica, Arial, sans-serif" font-size="15" fill="#f4b942">ACM SIGSPATIAL 2026  ·  State of the Map US 2026  ·  FOSS4G NA 2026</text>
+</svg>
