@@ -44,10 +44,6 @@ I am a Senior Software Engineer and Tech Lead at Amazon Last Mile Maps in Seattl
 - **MapScout: An Agentic Harness for Map Editing and Geospatial Data Labeling.**
   ACM SIGSPATIAL 2026, Demonstration Track. Seattle, Nov 2026.
   [Accepted demos](https://sigspatial2026.sigspatial.org/demo-accepted/)
-- **Transferring the Long Tail: Composing Geometric and LLM-Based Stitching for Cross-Provider Map Migration.**
-  S. Maisuria, V. Kumar, R. Garg. Under review, IEEE BigData 2026.
-- **PropertyScout: Auditable Building Condition Grading and Entrance Extraction from Street-View Imagery.**
-  V. Kumar, S. Maisuria, E. Eftelioglu, H. Krishnan, S. Thakur. Under review, IEEE BigData 2026 (demo).
 
 **2022**
 
