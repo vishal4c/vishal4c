@@ -78,9 +78,9 @@ I am a Senior Software Engineer and Tech Lead at Amazon Last Mile Maps in Seattl
 
 ## Published Articles
 
-- [Agentic AI's Next Frontier Is the Physical World. Trust Will Decide Who Wins.](https://aijourn.com/agentic-ais-next-frontier-is-the-physical-world-trust-will-decide-who-wins/) The AI Journal, Jul 2026.
+- [Agentic AI's Next Frontier Is the Physical World. Trust Will Decide Who Wins.](https://aijourn.com/agentic-ais-next-frontier-is-the-physical-world-trust-will-decide-who-wins/) The AI Journal, 2026.
 - [The Agent Drafts, a Human Approves: Inside State of the Map US 2026](https://hackernoon.com/the-agent-drafts-a-human-approves-inside-state-of-the-map-us-2026). HackerNoon, 2026.
-- [How Open Source Runs the Mapping World](https://hackernoon.com/how-open-source-runs-the-mapping-world). HackerNoon, Jun 2026.
+- [How Open Source Runs the Mapping World](https://hackernoon.com/how-open-source-runs-the-mapping-world). HackerNoon, 2026.
 
 ## Geospatial Community and Open Source Work
 
