@@ -36,16 +36,12 @@ I am a Senior Software Engineer and Tech Lead at Amazon Last Mile Maps in Seattl
 
 ## Publications
 
-**2026**
-
 - **Scalable Conflation for Maps Data Replay between Heterogeneous Geospatial Data Sources.**
   ACM SIGSPATIAL 2026, Industrial Track. Seattle, Nov 2026.
   [Accepted papers](https://sigspatial2026.sigspatial.org/industry-accepted/)
 - **MapScout: An Agentic Harness for Map Editing and Geospatial Data Labeling.**
   ACM SIGSPATIAL 2026, Demonstration Track. Seattle, Nov 2026.
   [Accepted demos](https://sigspatial2026.sigspatial.org/demo-accepted/)
-
-**2022**
 
 - **Deep Classification of Frequently-Changing Activities from GPS Trajectories.**
   ACM SIGSPATIAL Workshop on Computational Transportation Science (IWCTS 2022).
