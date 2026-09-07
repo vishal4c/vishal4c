@@ -76,7 +76,7 @@ I am a Senior Software Engineer and Tech Lead at Amazon Last Mile Maps in Bellev
 | 2023 | Winner (First Place), Amazon Geospatial Hub Hackathon 2023 | Understanding driver building entry and exit events from raw GNSS signals |
 | 2022 | Best Paper Award, ACM SIGSPATIAL IWCTS 2022 | Deep Classification of Frequently-Changing Activities from GPS Trajectories |
 | 2021 | OE and Quality Tech Award, Amazon Maps, Locations, and TTO Hack Day | Route Timeline Replay Tool |
-| 2019 | Best Overall Award, Amazon Last Mile HackDay | Cell-based road network generation for faster maps artifact deployment and maps defect isolation |
+| 2019 | Best Project Award, Amazon Last Mile HackDay | Cell-based road network generation for faster maps artifact deployment and maps defect isolation |
 
 ## Published Articles
 
