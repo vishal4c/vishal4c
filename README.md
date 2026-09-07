@@ -87,7 +87,7 @@ I am a Senior Software Engineer and Tech Lead at Amazon Last Mile Maps in Bellev
 ## Geospatial Community and Open Source Work
 
 - Overture Maps Foundation: participant in the Schema and Buildings task forces; led Amazon's delivery-maps migration onto Overture data, schema, and GERS identifiers.
-- MapLibre: collaborator on MapLibre initiatives and the engineer who brought the MapLibre Tiles (MLT) format into Amazon Maps, positioning the next generation of Amazon's delivery-map rendering on an open vector tile standard.
+- MapLibre: collaborator on MapLibre initiatives, and driving adoption of the MapLibre Tiles (MLT) format across the Amazon Maps ecosystem to put the next generation of delivery-map rendering on an open vector tile standard.
 - Reviewer interests: LLMs and agentic AI for geospatial tasks, scalable spatial pipelines, map conflation, intelligent transportation.
 - Mentor to engineers and researchers in big data and applied AI, inside Amazon and on ADPList; 300+ technical interviews conducted.
 
