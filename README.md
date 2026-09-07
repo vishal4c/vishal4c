@@ -45,7 +45,7 @@ I am a Senior Software Engineer and Tech Lead at Amazon Last Mile Maps in Bellev
 
 - **Deep Classification of Frequently-Changing Activities from GPS Trajectories.**
   ACM SIGSPATIAL Workshop on Computational Transportation Science (IWCTS 2022).
-  **Best Paper Award, IWCTS 2022.** [DOI 10.1145/3557991.3567784](https://doi.org/10.1145/3557991.3567784) · [IWCTS 2022 proceedings front matter](https://dl.acm.org/action/showFmPdf?doi=10.1145%2F3557991)
+  **Best Paper Award, IWCTS (International Workshop on Computational Transportation Science) 2022.** [DOI 10.1145/3557991.3567784](https://doi.org/10.1145/3557991.3567784) · [IWCTS 2022 proceedings](https://dl.acm.org/action/showFmPdf?doi=10.1145%2F3557991)
   The model replaced heuristic driver-activity inference across Amazon's worldwide delivery operations. Companion open dataset: [GOAL: GPS Ordered Activity Labels](https://github.com/amazon-science/goal-gps-ordered-activity-labels).
 
 ## Talks and workshops
