@@ -36,12 +36,12 @@ I am a Senior Software Engineer and Tech Lead at Amazon Last Mile Maps in Bellev
 
 ## Publications
 
-- **Scalable Conflation for Maps Data Replay between Heterogeneous Geospatial Data Sources.**
+- **[Scalable Conflation for Maps Data Replay between Heterogeneous Geospatial Data Sources.](https://www.amazon.science/publications/scalable-conflation-for-maps-data-replay-between-heterogeneous-geospatial-data-sources)**
   ACM SIGSPATIAL 2026, Industrial Track. Riverside, CA, Nov 2026.
-  [Accepted papers](https://sigspatial2026.sigspatial.org/industry-accepted/)
-- **MapScout: An Agentic Harness for Map Editing and Geospatial Data Labeling.**
+  [Amazon Science](https://www.amazon.science/publications/scalable-conflation-for-maps-data-replay-between-heterogeneous-geospatial-data-sources) · [Accepted papers](https://sigspatial2026.sigspatial.org/industry-accepted/)
+- **[MapScout: An Agentic Harness for Map Editing and Geospatial Data Labeling.](https://www.amazon.science/publications/mapscout-an-agentic-harness-for-map-editing-and-geospatial-data-labeling)**
   ACM SIGSPATIAL 2026, Demonstration Track. Riverside, CA, Nov 2026.
-  [Accepted demos](https://sigspatial2026.sigspatial.org/demo-accepted/)
+  [Amazon Science](https://www.amazon.science/publications/mapscout-an-agentic-harness-for-map-editing-and-geospatial-data-labeling) · [Accepted demos](https://sigspatial2026.sigspatial.org/demo-accepted/)
 
 - **Deep Classification of Frequently-Changing Activities from GPS Trajectories.**
   ACM SIGSPATIAL Workshop on Computational Transportation Science (IWCTS 2022).
