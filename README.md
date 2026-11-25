@@ -93,11 +93,11 @@ I am a Senior Software Engineer and Tech Lead at Amazon Last Mile Maps in Bellev
 
 ## Geospatial Community and Open Source Work
 
-- Overture Maps Foundation: reviewer for the Schema and Buildings task forces; led Amazon's delivery-maps migration onto Overture data, schema, and GERS identifiers.
-- MapLibre: collaborator on MapLibre initiatives, and driving adoption of the MapLibre Tiles (MLT) format across the Amazon Maps ecosystem to put the next generation of delivery-map rendering on an open, performant, and extensible vector tile standard.
-- Program committees and peer review (2026): Demo Track, IEEE International Conference on Big Data (IEEE BigData 2026); IEEE International Workshop on Big Spatial Data (BSD 2026) at IEEE BigData 2026; GeoIndustry 2026 workshop at ACM SIGSPATIAL 2026. Review interests: LLMs and agentic AI for geospatial tasks, scalable spatial pipelines, map conflation, intelligent transportation.
-- Judge, ACM Student Research Competition at ACM SIGSPATIAL 2026 (Riverside, Nov 2026): on-site evaluation of the graduate and undergraduate poster and presentation rounds.
-- Mentor to engineers and researchers in big data and applied AI, inside Amazon and on ADPList; mentor at the NASA Space Apps Challenge 2026 Seattle hackathon; 300+ technical interviews conducted.
+- **Overture Maps Foundation:** reviewer for the Schema and Buildings task forces; led Amazon's delivery-maps migration onto Overture data, schema, and GERS identifiers.
+- **MapLibre:** collaborator on MapLibre initiatives, and driving adoption of the MapLibre Tiles (MLT) format across the Amazon Maps ecosystem to put the next generation of delivery-map rendering on an open, performant, and extensible vector tile standard.
+- **Program committees and peer review (2026):** Demo Track, IEEE International Conference on Big Data (IEEE BigData 2026); IEEE International Workshop on Big Spatial Data (BSD 2026) at IEEE BigData 2026; GeoIndustry 2026 workshop at ACM SIGSPATIAL 2026. Review interests: LLMs and agentic AI for geospatial tasks, scalable spatial pipelines, map conflation, intelligent transportation.
+- **Judge, ACM Student Research Competition** at ACM SIGSPATIAL 2026 (Riverside, Nov 2026): on-site evaluation of the graduate and undergraduate poster and presentation rounds.
+- **Mentor to engineers and researchers** in big data and applied AI, inside Amazon and on ADPList; mentor at the NASA Space Apps Challenge 2026 Seattle hackathon; 300+ technical interviews conducted.
 
 ## Toolbox
 
