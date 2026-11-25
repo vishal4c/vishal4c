@@ -14,6 +14,7 @@
 <p>
   <a href="#resume"><img alt="Resume" src="https://img.shields.io/badge/Resume-View%20inline-0E7490?style=for-the-badge&logo=readme&logoColor=white"></a>
   <a href="https://www.linkedin.com/in/vishalnitt/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-vishalnitt-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+  <a href="#awards"><img alt="Best Demo Paper Award, ACM SIGSPATIAL 2026" src="https://img.shields.io/badge/Best%20Demo%20Paper-ACM%20SIGSPATIAL%202026-B45309?style=for-the-badge&logo=acm&logoColor=white"></a>
   <a href="https://dl.acm.org/action/showFmPdf?doi=10.1145%2F3557991"><img alt="ACM DL" src="https://img.shields.io/badge/ACM%20DL-SIGSPATIAL-0F766E?style=for-the-badge&logo=acm&logoColor=white"></a>
   <a href="https://hackernoon.com/u/vishalkumar"><img alt="HackerNoon" src="https://img.shields.io/badge/HackerNoon-Articles-00FE00?style=for-the-badge&logo=hackernoon&logoColor=black"></a>
   <a href="https://www.youtube.com/watch?v=N96IdetD6CE"><img alt="Talk" src="https://img.shields.io/badge/Talk-SotM%20US%202026-FF0000?style=for-the-badge&logo=youtube&logoColor=white"></a>
@@ -41,7 +42,11 @@ I am a Senior Software Engineer and Tech Lead at Amazon Last Mile Maps in Bellev
   [Amazon Science](https://www.amazon.science/publications/scalable-conflation-for-maps-data-replay-between-heterogeneous-geospatial-data-sources) · [Accepted papers](https://sigspatial2026.sigspatial.org/industry-accepted/)
 - **[MapScout: An Agentic Harness for Map Editing and Geospatial Data Labeling.](https://www.amazon.science/publications/mapscout-an-agentic-harness-for-map-editing-and-geospatial-data-labeling)**
   ACM SIGSPATIAL 2026, Demonstration Track. Riverside, CA, Nov 2026.
+  **Best Demo Paper Award, ACM SIGSPATIAL 2026**, selected from 30 accepted demonstration papers. With Shaishav Maisuria and Emre Eftelioglu.
   [Amazon Science](https://www.amazon.science/publications/mapscout-an-agentic-harness-for-map-editing-and-geospatial-data-labeling) · [Accepted demos](https://sigspatial2026.sigspatial.org/demo-accepted/)
+- **[Transferring the Long Tail: Composing Geometric and LLM-Based Stitching for Cross-Provider Map Migration.](https://www.amazon.science/publications/transferring-the-long-tail-composing-geometric-and-llm-based-stitching-for-cross-provider-map-migration)**
+  IEEE International Conference on Big Data (IEEE BigData 2026), Industry and Government Program, regular paper. Phoenix, AZ, Dec 2026. With Shaishav Maisuria and Ravi Garg.
+  [Amazon Science](https://www.amazon.science/publications/transferring-the-long-tail-composing-geometric-and-llm-based-stitching-for-cross-provider-map-migration) · [IEEE BigData 2026](https://bigdataieee.org/BigData2026/)
 
 - **Deep Classification of Frequently-Changing Activities from GPS Trajectories.**
   ACM SIGSPATIAL Workshop on Computational Transportation Science (IWCTS 2022).
@@ -53,13 +58,15 @@ I am a Senior Software Engineer and Tech Lead at Amazon Last Mile Maps in Bellev
 | When | Venue | Title |
 | --- | --- | --- |
 | Nov 2, 2026 | FOSS4G North America 2026, Sacramento | Workshop: [Routes to Safety: A Wildfire Evacuation Map from Open Data](https://talks.osgeo.org/foss4g-na-2026/talk/NYKALL/). [Workshop GitHub repo](https://github.com/vishal4c/routes-to-safety-workshop) |
+| Nov 3, 2026 | UMFM 2026, the 2nd ACM SIGSPATIAL International Workshop on Urban Mobility Foundation Models, Riverside | Invited industry talk: Agentic Map Data Maintenance, with Shaishav Maisuria and Li Xu. [Workshop program](https://sigspatial2026.sigspatial.org/workshops.html) |
 | Nov 4, 2026 | FOSS4G North America 2026, Sacramento | Session details: [Accelerated Multi-Source Vector-Tile Generation with Open-source Frameworks](https://talks.osgeo.org/foss4g-na-2026/talk/USHLU9/) |
+| Nov 2026 | ACM SIGSPATIAL 2026, Riverside | Demonstration session: [MapScout: An Agentic Harness for Map Editing and Geospatial Data Labeling](https://sigspatial2026.sigspatial.org/demo-accepted/), Best Demo Paper Award |
 | Jun 12, 2026 | State of the Map US 2026, Madison | [How Amazon Generates Map Tiles for Last-Mile Delivery Using OSM-Derived Datasets and Planetiler](https://openstreetmap.us/events/state-of-the-map-us/2026/how-amazon-generates-map-tiles/) ([video](https://www.youtube.com/watch?v=N96IdetD6CE)) |
 | Oct 2022 | ACM SIGSPATIAL IWCTS 2022, Seattle | [Deep Classification of Frequently-Changing Activities from GPS Trajectories](https://dl.acm.org/action/showFmPdf?doi=10.1145%2F3557991) |
 
 ## Showcased System Architecture
 
-- **MapScout.** Agent harness in which LLM and vision-language agents edit maps and label geospatial data from satellite and street-level imagery, with deterministic verifiers gating every edit. Powers sidewalk, walk-path, and entrance detection for pedestrian and robotic last-mile delivery, the map layer behind Amazon's doorstep-delivery robotics push ([CNBC, Mar 2026](https://www.cnbc.com/2026/03/19/amazon-acquires-startup-rivr-to-test-robots-for-doorstep-delivery.html)). Demo paper accepted at [ACM SIGSPATIAL 2026](https://sigspatial2026.sigspatial.org/demo-accepted/).
+- **MapScout.** Agent harness in which LLM and vision-language agents edit maps and label geospatial data from satellite and street-level imagery, with deterministic verifiers gating every edit. A supervisor agent decomposes a map tile into per-feature subtasks; subagents propose geometry and attributes from imagery and GPS trajectories, then check their own proposals with non-LLM validators (SAM 2 masks and pixel samplers for surface claims, Shapely and Tarjan's algorithm for offsets and routing connectivity) before a human editor accepts, adjusts or rejects each edit in a glass-box UI. Built on Strands SDK, Leaflet with Geoman, Shapely and SAM 2. Powers sidewalk, walk-path, and entrance detection for pedestrian and robotic last-mile delivery, the map layer behind Amazon's doorstep-delivery robotics push ([CNBC, Mar 2026](https://www.cnbc.com/2026/03/19/amazon-acquires-startup-rivr-to-test-robots-for-doorstep-delivery.html)). **Best Demo Paper Award at [ACM SIGSPATIAL 2026](https://sigspatial2026.sigspatial.org/demo-accepted/)**, selected from 30 accepted demonstration papers.
 - **FlashTileGenEngine.** Database-free vector tile pipeline (Planetiler, GeoParquet, Apache Sedona on Spark) that replaced a PostGIS stack. Worldwide tile refresh dropped from 31 hours to 4, 22 logistics-specific layers, tiles served across 19 countries. Presented at [State of the Map US 2026](https://openstreetmap.us/events/state-of-the-map-us/2026/how-amazon-generates-map-tiles/).
 - **Routable road network generation.** Big-data pipeline (2019) that builds Amazon's last-mile road graph; later Spark migration took world-wide map ingestion from a 48-hour monolith to an 8-hour distributed job. This network powers turn-by-turn navigation in the Amazon Flex driver app ([Amazon Flex blog](https://flex.amazon.com/blog/navigating-to-and-from-delivery-stops-with-ease/)).
 - **GeoAI agent framework.** Multi-agent system on AWS Bedrock AgentCore for geospatial analysis, used by 1,000+ internal partners. Featured in Amazon's announcement of AI-powered tools for delivery partners ([About Amazon, Sept 2025](https://www.aboutamazon.com/news/transportation/amazon-delivery-service-partner-investment-safety-ai-tools)).
@@ -69,6 +76,7 @@ I am a Senior Software Engineer and Tech Lead at Amazon Last Mile Maps in Bellev
 
 | Year | Award | Work recognized |
 | --- | --- | --- |
+| 2026 | **Best Demo Paper Award, ACM SIGSPATIAL 2026** (34th ACM SIGSPATIAL International Conference on Advances in Geographic Information Systems, Riverside, CA) | MapScout: An Agentic Harness for Map Editing and Geospatial Data Labeling, selected from 30 accepted demonstration papers |
 | 2025 | Innovation Award, Amazon Last Mile Geospatial All Hands | GeoAI multi-agent framework on AWS Bedrock AgentCore, used by 1,000+ internal partners |
 | 2025 | People's Choice Award, Amazon GenAI Hackathon | GraphFix AI Agent, which validates map data by comparing routes across map providers and flagging road network defects |
 | 2024 | Special Award for Operational Excellence, Amazon Geospatial Hub Winter Hackathon | Oncall Whisperer, an LLM assistant for on-call incident triage |
@@ -76,6 +84,11 @@ I am a Senior Software Engineer and Tech Lead at Amazon Last Mile Maps in Bellev
 | 2022 | Best Paper Award, ACM SIGSPATIAL IWCTS 2022 | Deep Classification of Frequently-Changing Activities from GPS Trajectories |
 | 2021 | OE and Quality Tech Award, Amazon Maps, Locations, and TTO Hack Day | Route Timeline Replay Tool |
 | 2019 | Best Project Award, Amazon Last Mile HackDay | Cell-based road network generation for faster maps artifact deployment and maps defect isolation |
+
+<div align="center">
+<img src="./assets/best-demo-paper-sigspatial-2026.jpg" alt="Best Demo Paper Award certificate, ACM SIGSPATIAL 2026, presented to Vishal Kumar, Shaishav Maisuria and Emre Eftelioglu for MapScout" width="70%">
+<br><sub>Best Demo Paper Award, ACM SIGSPATIAL 2026, Riverside, CA.</sub>
+</div>
 
 ## Published Articles
 
@@ -87,8 +100,9 @@ I am a Senior Software Engineer and Tech Lead at Amazon Last Mile Maps in Bellev
 
 - Overture Maps Foundation: participant in the Schema and Buildings task forces; led Amazon's delivery-maps migration onto Overture data, schema, and GERS identifiers.
 - MapLibre: collaborator on MapLibre initiatives, and driving adoption of the MapLibre Tiles (MLT) format across the Amazon Maps ecosystem to put the next generation of delivery-map rendering on an open, performant, and extensible vector tile standard.
-- Reviewer interests: LLMs and agentic AI for geospatial tasks, scalable spatial pipelines, map conflation, intelligent transportation.
-- Mentor to engineers and researchers in big data and applied AI, inside Amazon and on ADPList; 300+ technical interviews conducted.
+- Program committees and peer review (2026): Demo Track, IEEE International Conference on Big Data (IEEE BigData 2026); IEEE International Workshop on Big Spatial Data (BSD 2026) at IEEE BigData 2026; GeoIndustry 2026 workshop at ACM SIGSPATIAL 2026. Review interests: LLMs and agentic AI for geospatial tasks, scalable spatial pipelines, map conflation, intelligent transportation.
+- Judge, ACM Student Research Competition at ACM SIGSPATIAL 2026 (Riverside, Nov 2026): on-site evaluation of the graduate and undergraduate poster and presentation rounds.
+- Mentor to engineers and researchers in big data and applied AI, inside Amazon and on ADPList; mentor at the NASA Space Apps Challenge 2026 Seattle hackathon; 300+ technical interviews conducted.
 
 ## Toolbox
 
