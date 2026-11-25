@@ -85,11 +85,6 @@ I am a Senior Software Engineer and Tech Lead at Amazon Last Mile Maps in Bellev
 | 2021 | OE and Quality Tech Award, Amazon Maps, Locations, and TTO Hack Day | Route Timeline Replay Tool |
 | 2019 | Best Project Award, Amazon Last Mile HackDay | Cell-based road network generation for faster maps artifact deployment and maps defect isolation |
 
-<div align="center">
-<img src="./assets/best-demo-paper-sigspatial-2026.jpg" alt="Best Demo Paper Award certificate, ACM SIGSPATIAL 2026, presented to Vishal Kumar, Shaishav Maisuria and Emre Eftelioglu for MapScout" width="70%">
-<br><sub>Best Demo Paper Award, ACM SIGSPATIAL 2026, Riverside, CA.</sub>
-</div>
-
 ## Published Articles
 
 - [Agentic AI's Next Frontier Is the Physical World. Trust Will Decide Who Wins.](https://aijourn.com/agentic-ais-next-frontier-is-the-physical-world-trust-will-decide-who-wins/) The AI Journal, 2026.
@@ -98,7 +93,7 @@ I am a Senior Software Engineer and Tech Lead at Amazon Last Mile Maps in Bellev
 
 ## Geospatial Community and Open Source Work
 
-- Overture Maps Foundation: participant in the Schema and Buildings task forces; led Amazon's delivery-maps migration onto Overture data, schema, and GERS identifiers.
+- Overture Maps Foundation: reviewer for the Schema and Buildings task forces; led Amazon's delivery-maps migration onto Overture data, schema, and GERS identifiers.
 - MapLibre: collaborator on MapLibre initiatives, and driving adoption of the MapLibre Tiles (MLT) format across the Amazon Maps ecosystem to put the next generation of delivery-map rendering on an open, performant, and extensible vector tile standard.
 - Program committees and peer review (2026): Demo Track, IEEE International Conference on Big Data (IEEE BigData 2026); IEEE International Workshop on Big Spatial Data (BSD 2026) at IEEE BigData 2026; GeoIndustry 2026 workshop at ACM SIGSPATIAL 2026. Review interests: LLMs and agentic AI for geospatial tasks, scalable spatial pipelines, map conflation, intelligent transportation.
 - Judge, ACM Student Research Competition at ACM SIGSPATIAL 2026 (Riverside, Nov 2026): on-site evaluation of the graduate and undergraduate poster and presentation rounds.
